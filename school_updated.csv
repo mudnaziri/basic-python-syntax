@@ -1,0 +1,6 @@
+Name,Age,Score,Grade,Passed?
+Alice,23.0,85.0,B,Yes
+Bob,20.0,78.5,C,Yes
+Charlie,21.0,72.0,D,Yes
+David,22.0,90.0,A,Yes
+Eva,21.0,68.0,E,No
